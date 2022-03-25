@@ -1,0 +1,8 @@
+/* Estilos de la página lista de Empelados */
+
+
+/* cuando se pase por los iconos de editar o eliminar cambie el cursor */
+
+i {
+    cursor: pointer;
+}
